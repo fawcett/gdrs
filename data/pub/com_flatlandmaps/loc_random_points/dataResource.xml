@@ -1,0 +1,45 @@
+
+<!DOCTYPE dataResource SYSTEM "dataResource.dtd" >
+<dataResource>
+    <baseName>loc_random_points</baseName>
+    <descriptiveName>Demo Dataset of Random Points</descriptiveName>
+    <publisher>Flatland Maps</publisher>
+    <publisherID>com_flatlandmaps</publisherID>
+    <currentAsofDate>2013-09-24</currentAsofDate>
+    <resourceType>ESRI Shapefile</resourceType>
+    <nativeCoordRefSys>EPSG:26915</nativeCoordRefSys>
+    <tilingScheme>none</tilingScheme>
+    <topicCategories>
+        <topicCategory type="ISO 19115">location</topicCategory>
+    </topicCategories>
+    <resourceIdentifiers>
+        <resourceID type="flatland">1</resourceID>
+        <resourceID type="gdrsEcosystemGUID">{4f6e9262-0da0-4e21-801d-a1c42b4a9f71}</resourceID>
+    </resourceIdentifiers>
+    <dataSubResources>
+        <dataSubResource>
+            <subResourceType>geojson</subResourceType>
+            <subResourceName>geojson_loc_random_points</subResourceName>
+            <subResourceIdentifiers>
+                <subResourceID type="subResourceGUID">{1fff38f6-70df-4b0a-9eb8-96bb4e1d98bd}</subResourceID>
+            </subResourceIdentifiers>
+        </dataSubResource>
+        <dataSubResource>
+            <subResourceType>shp</subResourceType>
+            <subResourceName>shp_loc_random_points</subResourceName>
+            <subResourceIdentifiers>
+                <subResourceID type="subResourceGUID">{a167292e-ba43-418e-a1c0-c01c97423791}</subResourceID>
+            </subResourceIdentifiers>
+        </dataSubResource>
+    </dataSubResources>
+    <boundingCoordinates>
+        <boundingCoordRefSys>EPSG:4326</boundingCoordRefSys>
+        <boundingCoordEast>-89.397150</boundingCoordEast>
+        <boundingCoordWest>-96.833073</boundingCoordWest>
+        <boundingCoordNorth>49.348176</boundingCoordNorth>
+        <boundingCoordSouth>43.435393</boundingCoordSouth>
+    </boundingCoordinates>
+    <resourceSizeKb>14000</resourceSizeKb>
+    <resourceModified>2013-09-24 01:01:00</resourceModified>
+    <thisFileModified>2013-09-24 01:01:00</thisFileModified>
+</dataResource>
