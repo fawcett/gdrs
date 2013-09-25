@@ -1,0 +1,46 @@
+{
+
+    "fileGenDate": "2013-09-24 01:01:00",
+    "dsDetails": {
+        
+        "{4f6e9262-0da0-4e21-801d-a1c42b4a9f71}": {
+            "bndCoordNorth": "49.348176",
+            "dsOnlineLink": "https://github.com/fawcett/gdrs/tree/master/data/pub/com_flatlandmaps/loc_random_points",
+            "dsAbstract": "This is a demo dataset comprised of 500 random points distributed across the state of Minnesota.  No real meaning or value should be assocaited with the locations of the points in this dataset.",
+            "dsModifiedDate": "2013-09-24 21:44:00",
+            "dsThemeKeywords": ["random","no value","demo"],
+            "dsAccessConst": "None.",
+            "dsPurpose": "A real dataset with no meaning used to help demonstrate the possibility of creating a read-only GDRS instance on GitHub.",
+            "dsName": "Random Points",
+            "dsPlaceKeywords": [
+                "Minnesota"
+            ],
+            "topicCategories": [
+                "location"
+            ],
+            "dsMetadataErrors": [ ],
+            "dsDataResources": {
+                "{0ab27824-dffe-48c7-88d7-fb76ead08633}": {
+                    "drType": "fgdb",
+                    "drURL": "ftp://gdrs.dnr.state.mn.us/gdrs/data/pub/us_mn_state_mda/env_emerald_ash_borer/fgdb_env_emerald_ash_borer.zip",
+                    "drName": "env_emerald_ash_borer",
+                "{0ab27824-dffe-48c7-88d7-fb76ead08633}": {
+                    "drType": "fgdb",
+                    "drURL": "ftp://gdrs.dnr.state.mn.us/gdrs/data/pub/us_mn_state_mda/env_emerald_ash_borer/fgdb_env_emerald_ash_borer.zip",
+                    "drName": "env_emerald_ash_borer"
+                }
+            },
+            "dsPublisherID": "us_mn_state_mda",
+            "dsCurrentRef": null,
+            "bndCoordWest": "-97.5",
+            "bndCoordEast": "-89.0",
+            "dsOriginator": "Minnesota Department of Agriculture",
+            "dsBaseName": "env_emerald_ash_borer",
+            "dsMetadataUrl": "ftp://gdrs.dnr.state.mn.us/gdrs/data/pub/us_mn_state_mda/env_emerald_ash_borer/metadata/metadata.html",
+            "bndCoordSouth": "43.0",
+            "dsPeriodOfContent": "20130822"
+        }
+    },
+    "gdrsGUID": "{930aa111-0c81-4d98-a659-5240218bc65b}"
+
+}
