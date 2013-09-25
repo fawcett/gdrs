@@ -20,27 +20,27 @@
             ],
             "dsMetadataErrors": [ ],
             "dsDataResources": {
-                "{0ab27824-dffe-48c7-88d7-fb76ead08633}": {
-                    "drType": "fgdb",
-                    "drURL": "ftp://gdrs.dnr.state.mn.us/gdrs/data/pub/us_mn_state_mda/env_emerald_ash_borer/fgdb_env_emerald_ash_borer.zip",
-                    "drName": "env_emerald_ash_borer",
-                "{0ab27824-dffe-48c7-88d7-fb76ead08633}": {
-                    "drType": "fgdb",
-                    "drURL": "ftp://gdrs.dnr.state.mn.us/gdrs/data/pub/us_mn_state_mda/env_emerald_ash_borer/fgdb_env_emerald_ash_borer.zip",
-                    "drName": "env_emerald_ash_borer"
+                "{1fff38f6-70df-4b0a-9eb8-96bb4e1d98bd}": {
+                    "drType": "geojson",
+                    "drURL": "https://github.com/fawcett/gdrs/blob/master/data/pub/com_flatlandmaps/loc_random_points/geojson_loc_randompoints.geojson",
+                    "drName": "geojson_loc_randompoints"},
+                "{a167292e-ba43-418e-a1c0-c01c97423791}": {
+                    "drType": "shp",
+                    "drURL": "https://github.com/fawcett/gdrs/blob/master/data/pub/com_flatlandmaps/loc_random_points/shp_loc_random_points.zip",
+                    "drName": "shp_loc_random_points"
                 }
             },
-            "dsPublisherID": "us_mn_state_mda",
+            "dsPublisherID": "com_flatlandmaps",
             "dsCurrentRef": null,
-            "bndCoordWest": "-97.5",
-            "bndCoordEast": "-89.0",
-            "dsOriginator": "Minnesota Department of Agriculture",
-            "dsBaseName": "env_emerald_ash_borer",
+            "bndCoordWest": "-96.833073",
+            "bndCoordEast": "-89.397150",
+            "dsOriginator": "Flatland Maps",
+            "dsBaseName": "loc_random_points",
             "dsMetadataUrl": "ftp://gdrs.dnr.state.mn.us/gdrs/data/pub/us_mn_state_mda/env_emerald_ash_borer/metadata/metadata.html",
-            "bndCoordSouth": "43.0",
-            "dsPeriodOfContent": "20130822"
+            "bndCoordSouth": "43.435393",
+            "dsPeriodOfContent": "20130924"
         }
     },
-    "gdrsGUID": "{930aa111-0c81-4d98-a659-5240218bc65b}"
+    "gdrsGUID": "{f562b597-f3a3-402d-90e4-b7885bea2a27}"
 
 }
